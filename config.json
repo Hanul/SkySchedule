@@ -1,0 +1,14 @@
+{
+	"schedule": [
+		{
+			"hour": 16,
+			"minute": 29,
+			"commands": [
+				{
+					"cdw": "./",
+					"command": "mkdir test"
+				}
+			]
+		}
+	]
+}
